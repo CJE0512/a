@@ -1,3 +1,5 @@
+//¾È³ç 
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<windows.h>
